@@ -133,39 +133,17 @@
     <ClInclude Include="util.h" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="army.bmp" />
     <Image Include="blackMetal.bmp" />
     <Image Include="blade.bmp" />
-    <Image Include="bolt.bmp" />
-    <Image Include="brick.bmp" />
     <Image Include="bronze1.bmp" />
-    <Image Include="bronze2.bmp" />
-    <Image Include="bronze3.bmp" />
-    <Image Include="bronze3Quad.bmp" />
     <Image Include="bulletRow.bmp" />
-    <Image Include="camo.bmp" />
-    <Image Include="camoPlate.bmp" />
-    <Image Include="darkCamo.bmp" />
-    <Image Include="darkDarkOlivePlain.bmp" />
     <Image Include="darkMetal.bmp" />
-    <Image Include="darkOlive.bmp" />
     <Image Include="darkRustyMetal.bmp" />
     <Image Include="darkRustyMetalBright.bmp" />
     <Image Include="fluffy.bmp" />
-    <Image Include="green.png" />
     <Image Include="gun.bmp" />
-    <Image Include="gunCamo.bmp" />
-    <Image Include="logo.bmp" />
-    <Image Include="logo2.bmp" />
-    <Image Include="logo3.bmp" />
-    <Image Include="logo6.bmp" />
     <Image Include="logo7.bmp" />
     <Image Include="metal.bmp" />
-    <Image Include="olivePlate.bmp" />
-    <Image Include="original.bmp" />
-    <Image Include="palmCamo.bmp" />
-    <Image Include="texture.bmp" />
-    <Image Include="weatheredMetal.bmp" />
     <Image Include="weatheredMetal2.bmp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
